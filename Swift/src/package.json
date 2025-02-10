@@ -1,5 +1,5 @@
 {
-    "name": "music",
+    "name": "Swift Music",
     "version": "1.0.0",
     "description": "A Discord bot with DisTube and slash commands.",
     "main": "src/index.js",
